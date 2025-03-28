@@ -4,8 +4,8 @@
     <label>Capitalism</label>
     <description>A meme that values free markets, private property, and individualism.</description>
     <category>Normal</category>
-    <impact>2</impact>
-    <iconPath>UI/memes/Capitalism.png</iconPath>
+    <impact>3</impact>
+    <iconPath>UI/Memes/Capitalism.png</iconPath>
   </MemeDef>
 
   <MemeDef>
@@ -13,9 +13,6 @@
     <label>Socialism</label>
     <description>A meme that values equality, collective ownership, and social welfare.</description>
     <category>Structure</category>
-    <impact>0</impact> <!-- Changed from 2 to 0 -->
-    <worshipRoomLabel>Common Room</worshipRoomLabel> <!-- Added -->
-    <descriptionMaker>SomeDescriptionMaker</descriptionMaker> <!-- Added -->
-    <iconPath>UI/memes/Socialism.png</iconPath>
-  </MemeDef>
-</Defs>
+    <impact>0</impact>
+    <worshipRoomLabel>Collective Hall</worshipRoomLabel>
+    <descriptionMaker Class="IdeoDescriptionMaker_Random">Social
