@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <MemeDef>
+    <defName>Capitalism</defName>
+    <label>Capitalism</label>
+    <description>A meme focused on free markets and individual wealth.</description>
+    <iconPath>UI/Memes/Capitalism.png</iconPath>
+    <impact>High</impact>
+  </MemeDef>
+  <MemeDef>
+    <defName>Socialism</defName>
+    <label>Socialism</label>
+    <description>A meme centered around collective ownership and equality.</description>
+    <iconPath>UI/Memes/Socialism.png</iconPath>
+    <impact>High</impact>
+  </MemeDef>
+</Defs> 
