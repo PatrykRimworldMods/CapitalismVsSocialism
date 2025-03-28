@@ -5,7 +5,7 @@
     <description>A meme that values free markets, private property, and individualism.</description>
     <category>Normal</category>
     <impact>3</impact>
-    <iconPath>UI/memes/Capitalism.png</iconPath>
+    <iconPath>UI/Memes/Capitalism.png</iconPath>
   </MemeDef>
 
   <MemeDef>
@@ -15,4 +15,7 @@
     <category>Structure</category>
     <impact>0</impact>
     <worshipRoomLabel>Collective Hall</worshipRoomLabel>
-    <description
+    <descriptionMaker>Socialist ideals promote shared resources and equality among all colonists.</descriptionMaker>
+    <iconPath>UI/Memes/Socialism.png</iconPath>
+  </MemeDef>
+</Defs>

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CapitalismVsSocialism")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5eb1ad97f4726dbbba4b284f2f409c1533f680f3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6af7489ee1f2ba52b97b8f26fd3307a0f80209c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("CapitalismVsSocialism")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CapitalismVsSocialism")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
