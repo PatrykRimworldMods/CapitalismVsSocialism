@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Capitalism Vs Socialism</name>
+  <author>YourName</author>
+  <description>A mod that introduces capitalism and socialism mechanics into RimWorld.</description>
+  <packageId>YourName.CapitalismVsSocialism</packageId>
+  <supportedVersions>
+    <li>1.4</li>
+    <li>1.5</li>
+  </supportedVersions>
+</ModMetaData>
