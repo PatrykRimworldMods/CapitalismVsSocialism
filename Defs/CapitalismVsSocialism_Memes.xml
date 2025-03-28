@@ -1,0 +1,19 @@
+<Defs>
+  <MemeDef>
+    <defName>CapitalistMeme</defName>
+    <label>Capitalism</label>
+    <description>A meme that values free markets, private property, and individualism.</description>
+    <category>Social</category>
+    <impact>High</impact>
+    <iconPath>UI/memes/Capitalism.png</iconPath>
+  </MemeDef>
+
+  <MemeDef>
+    <defName>SocialistMeme</defName>
+    <label>Socialism</label>
+    <description>A meme that values equality, collective ownership, and social welfare.</description>
+    <category>Social</category>
+    <impact>High</impact>
+    <iconPath>UI/memes/Socialism.png</iconPath>
+  </MemeDef>
+</Defs>
