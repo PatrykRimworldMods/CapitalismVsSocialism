@@ -15,7 +15,7 @@
     <category>Structure</category>
     <impact>0</impact>
     <worshipRoomLabel>Collective Hall</worshipRoomLabel>
-    <descriptionMaker Class="IdeoDescriptionMaker_Random">Socialist ideals promote shared resources and equality among all colonists.</descriptionMaker>
+    <descriptionMaker Class="IdeoDescriptionMaker_Random" />
     <iconPath>UI/Memes/Socialism.png</iconPath>
   </MemeDef>
 </Defs>
